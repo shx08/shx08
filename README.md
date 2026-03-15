@@ -173,35 +173,6 @@ Experience designing and building:
 
 ---
 
-## ⚙️ Typical Stack I Work With
-
-<p>
-
-<img src="https://cdn.simpleicons.org/strapi/4945FF" height="20"/> <strong>Strapi</strong> — Headless CMS platform  
-<br>
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20"/> <strong>Node.js</strong> / <strong>NestJS</strong> — API and backend systems  
-<br>
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="20"/> <strong>PostgreSQL</strong> / 
-<img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/> <strong>SQLite</strong> — Databases  
-<br>
-
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="20"/> <strong>React</strong> / 
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="20"/> <strong>Next.js</strong> / 
-<img src="https://cdn.simpleicons.org/astro/FF5D01" height="20"/> <strong>Astro</strong> / 
-<img src="https://cdn.simpleicons.org/svelte/FF3E00" height="20"/> <strong>Svelte</strong> — Frontend platforms  
-<br>
-
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="20"/> <strong>Docker</strong> — Containerized deployments  
-<br>
-
-<img src="https://cdn.simpleicons.org/openai/412991" height="20"/> <strong>AI integrations</strong> — automation workflows
-
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
