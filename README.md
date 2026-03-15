@@ -13,24 +13,23 @@ Designing scalable CMS platforms, APIs and developer tooling.
 </p>
 
 <p align="center">
+
 <a href="https://github.com/shx08">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://www.npmjs.com/~jonathan_clay">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" height="30"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sorinhadjiu/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://gravatar.com/shx08">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gravatar.svg" height="30"/>
+<img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white"/>
 </a>
+
 </p>
 
 ---
