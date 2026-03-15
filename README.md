@@ -5,45 +5,85 @@
 <h1 align="center">Hi 👋, I'm Sorin Hadjiu</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer • Strapi Ecosystem Developer • Open Source Contributor</strong>
+<strong>Full-Stack Engineer • Strapi Ecosystem Developer • Open Source Contributor</strong>
 </p>
 
 <p align="center">
-  Building scalable backend systems, CMS integrations, and developer tooling.
+Designing scalable CMS platforms, APIs and developer tooling.
 </p>
 
 <p align="center">
-  <a href="https://github.com/shx08">GitHub</a> •
-  <a href="https://gravatar.com/shx08">Gravatar</a>
+<a href="https://github.com/shx08">
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.npmjs.com/~jonathan_clay">
+<img src="https://cdn.simpleicons.org/npm/CB3837" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sorinhadjiu/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://gravatar.com/shx08">
+<img src="https://cdn.simpleicons.org/gravatar/1E8CBE" height="30"/>
+</a>
 </p>
+
+---
+
+## ⚡ Focus Areas
+
+• Strapi ecosystem plugins and CMS tooling  
+• API-driven backend systems (Node.js / NestJS)  
+• Modern frontend platforms (React / Next.js / Astro / Svelte)  
+• Automation and AI integrations  
+• Developer tooling and platform architecture  
 
 ---
 
 ## 🚀 About Me
 
-I’m a full-stack engineer with **8+ years of experience** building web applications, backend systems, CMS extensions, and developer tools.
+I’m a **full-stack engineer with 8+ years of experience** building scalable platforms, CMS systems and developer tools.
 
-My main focus areas include:
+My work focuses on:
 
-- **Node.js backend architecture**
-- **Strapi CMS ecosystem**
-- **AI integrations and automation**
-- **developer tooling and workflow optimization**
+• backend architecture with **Node.js / NestJS**  
+• **Strapi CMS ecosystem** and plugin development  
+• modern frontends with **React, Next.js, Astro and Svelte**  
+• **AI integrations and automation systems**  
+• developer tooling and platform workflows  
 
-I enjoy building tools that **connect ecosystems, improve developer experience, and simplify product workflows**.
+> I enjoy building tools that simplify complex systems and improve developer experience.
+
+---
+
+## 🧩 Systems I Build
+
+I enjoy designing **complete application systems**, not just isolated components.
+
+Typical architecture I work with:
+
+• **Headless CMS platforms** (Strapi + custom plugins)  
+• **API-driven backends** (Node.js / NestJS)  
+• **Modern frontend applications** (React / Next.js / Astro / Svelte)  
+• **Automation and AI integrations**  
+• **Developer tooling and platform extensions**
+
+My goal is to build systems that are **scalable, maintainable and developer-friendly**.
 
 ---
 
 ## 🟦 Strapi Ecosystem
 
-I actively build tools and integrations for the **Strapi CMS ecosystem**, with a focus on improving both **developer experience** and **editor workflows**.
+I actively build tools and integrations for the **Strapi CMS ecosystem**, improving developer experience and editor workflows.
 
 My work includes:
 
-- custom Strapi plugins
-- admin panel extensions
-- CMS integrations
-- developer tooling for Strapi-based platforms
+• custom Strapi plugins  
+• admin panel extensions  
+• CMS integrations  
+• developer tooling for Strapi platforms  
 
 ---
 
@@ -51,44 +91,65 @@ My work includes:
 
 ### Strapi × Lucide Integration
 
-I created **[`strapi-lucide-icons`](https://github.com/shx08/strapi-lucide-icons)**, a plugin that connects the **Strapi CMS ecosystem** with the **Lucide icon library**.
+I created **strapi-lucide-icons**, a plugin connecting the **Strapi CMS ecosystem** with the **Lucide icon library**.
 
-This allows developers and editors to browse and select Lucide icons directly inside the Strapi admin panel, making UI customization much easier.
+This allows developers and editors to browse and select Lucide icons directly inside the Strapi admin panel.
 
-It’s a project I’m especially proud of because it:
+Repository  
+https://github.com/shx08/strapi-lucide-icons
 
-- bridges two open-source ecosystems
-- improves editor experience inside Strapi
-- provides a lightweight and practical integration
-
-Related Lucide ecosystem contribution:
-
-- [`lucide-icons/lucide` pull request](https://github.com/lucide-icons/lucide/pull/4112)
+Lucide ecosystem contribution  
+https://github.com/lucide-icons/lucide/pull/4112
 
 ---
 
-## 🚀 Featured Project
+## 🏗 Projects
 
-<p align="center">
-  <a href="https://github.com/shx08/strapi-lucide-icons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shx08&repo=strapi-lucide-icons&theme=tokyonight" />
-  </a>
-</p>
+I have contributed to building platforms and applications such as:
+
+**Fineguide AI**  
+https://fineguide.ai  
+
+AI-powered conversational platform and automation tools.
+
+**BoundaryCare**  
+https://boundarycare.com  
+
+Healthcare platform focused on patient engagement and care management.
+
+**Villa Maria Perivoli**  
+https://villamariaperivoli.com  
+
+Modern website and digital presence for a luxury villa in Corfu.
 
 ---
 
 ## 💼 Services
 
-I help companies and startups build **scalable backend systems and CMS tooling**.
+I help companies and startups build **scalable backend systems and CMS platforms**.
 
 What I can help with:
 
-- backend architecture with **Node.js / NestJS**
-- **Strapi CMS development** and custom plugins
-- API design and third-party integrations
-- AI integrations and automation systems
-- developer tooling and platform enhancements
-- performance optimization and maintainable system design
+• backend architecture with **Node.js / NestJS**  
+• **Strapi CMS development** and custom plugins  
+• API design and third-party integrations  
+• modern **React / Next.js / Astro / Svelte** frontends  
+• AI integrations and automation systems  
+• developer tooling and platform enhancements  
+
+---
+
+## 🟢 Available For
+
+I occasionally collaborate with companies and startups on projects involving:
+
+• Strapi CMS architecture and custom plugins  
+• Node.js / NestJS backend systems  
+• React / Next.js / Astro / Svelte frontend applications  
+• AI integrations and automation workflows  
+• developer tooling and platform extensions  
+
+If you're building a platform and need help with architecture or integrations, feel free to reach out.
 
 ---
 
@@ -96,35 +157,48 @@ What I can help with:
 
 Experience designing and building:
 
-- scalable API and backend systems
-- CMS platforms and content architectures
-- modular application structures
-- plugin-based systems
-- developer-oriented tooling
-
----
-
-## 🧠 Engineering Approach
-
-I focus on building **maintainable, scalable systems** with strong developer experience.
-
-Core principles I follow:
-
-- clean architecture
-- modular design
-- practical performance
-- simple developer workflows
-- lightweight integrations
-- long-term maintainability
-
-> I enjoy building tools that connect ecosystems and improve developer experience.
+• scalable API systems  
+• CMS platforms and content architectures  
+• modular backend architectures  
+• modern frontend architectures  
+• plugin-based platforms  
+• developer tooling and automation systems  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,ts,postgres,sqlite,redis,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,astro,svelte,ts,postgres,sqlite,redis,docker,git,github" />
+</p>
+
+---
+
+## ⚙️ Typical Stack I Work With
+
+<p>
+
+<img src="https://cdn.simpleicons.org/strapi/4945FF" height="20"/> <strong>Strapi</strong> — Headless CMS platform  
+<br>
+
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20"/> <strong>Node.js</strong> / <strong>NestJS</strong> — API and backend systems  
+<br>
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="20"/> <strong>PostgreSQL</strong> / 
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/> <strong>SQLite</strong> — Databases  
+<br>
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="20"/> <strong>React</strong> / 
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="20"/> <strong>Next.js</strong> / 
+<img src="https://cdn.simpleicons.org/astro/FF5D01" height="20"/> <strong>Astro</strong> / 
+<img src="https://cdn.simpleicons.org/svelte/FF3E00" height="20"/> <strong>Svelte</strong> — Frontend platforms  
+<br>
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="20"/> <strong>Docker</strong> — Containerized deployments  
+<br>
+
+<img src="https://cdn.simpleicons.org/openai/412991" height="20"/> <strong>AI integrations</strong> — automation workflows
+
 </p>
 
 ---
@@ -132,45 +206,36 @@ Core principles I follow:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shx08&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=shx08&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shx08&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shx08&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shx08&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚧 Currently Building
 
-- Strapi ecosystem plugins
-- developer tooling for CMS platforms
-- AI-powered backend systems
-
----
-
-## 💬 Work With Me
-
-If you're building a platform and need help with:
-
-- Strapi CMS development
-- custom Strapi plugins
-- backend architecture
-- API design and integrations
-- developer tooling
-
-I’m open to collaborating on interesting projects.
+• Strapi ecosystem plugins  
+• developer tooling for CMS platforms  
+• AI-powered backend systems  
 
 ---
 
 ## 🤝 Connect
 
-- GitHub: [shx08](https://github.com/shx08)
-- Gravatar: [shx08](https://gravatar.com/shx08)
+GitHub  
+https://github.com/shx08  
+
+LinkedIn  
+https://www.linkedin.com/in/sorinhadjiu/  
+
+NPM  
+https://www.npmjs.com/~jonathan_clay  
+
+Gravatar  
+https://gravatar.com/shx08  
 
 ---
 
@@ -180,6 +245,10 @@ strapi plugin developer
 strapi cms developer
 nodejs backend developer
 nestjs developer
+react developer
+nextjs developer
+astro developer
+svelte developer
 headless cms developer
 cms plugin developer
 developer tooling
