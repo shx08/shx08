@@ -17,16 +17,19 @@ Designing scalable CMS platforms, APIs and developer tooling.
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.npmjs.com/~jonathan_clay">
-<img src="https://cdn.simpleicons.org/npm/CB3837" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" height="30"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/sorinhadjiu/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://gravatar.com/shx08">
-<img src="https://cdn.simpleicons.org/gravatar/1E8CBE" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gravatar.svg" height="30"/>
 </a>
 </p>
 
@@ -96,10 +99,7 @@ I created **strapi-lucide-icons**, a plugin connecting the **Strapi CMS ecosyste
 This allows developers and editors to browse and select Lucide icons directly inside the Strapi admin panel.
 
 Repository  
-https://github.com/shx08/strapi-lucide-icons
-
-Lucide ecosystem contribution  
-https://github.com/lucide-icons/lucide/pull/4112
+https://github.com/shx08/strapi-lucide-icon
 
 ---
 
