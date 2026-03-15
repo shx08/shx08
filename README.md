@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sorin Hadjiu</h1>
 
 <p align="center">
