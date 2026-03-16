@@ -123,48 +123,6 @@ Modern website and digital presence for a luxury villa in Corfu.
 
 ---
 
-## 💼 Services
-
-I help companies and startups build **scalable backend systems and CMS platforms**.
-
-What I can help with:
-
-• backend architecture with **Node.js / NestJS**  
-• **Strapi CMS development** and custom plugins  
-• API design and third-party integrations  
-• modern **React / Next.js / Astro / Svelte** frontends  
-• AI integrations and automation systems  
-• developer tooling and platform enhancements  
-
----
-
-## 🟢 Available For
-
-I occasionally collaborate with companies and startups on projects involving:
-
-• Strapi CMS architecture and custom plugins  
-• Node.js / NestJS backend systems  
-• React / Next.js / Astro / Svelte frontend applications  
-• AI integrations and automation workflows  
-• developer tooling and platform extensions  
-
-If you're building a platform and need help with architecture or integrations, feel free to reach out.
-
----
-
-## 🧱 Architecture Experience
-
-Experience designing and building:
-
-• scalable API systems  
-• CMS platforms and content architectures  
-• modular backend architectures  
-• modern frontend architectures  
-• plugin-based platforms  
-• developer tooling and automation systems  
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
