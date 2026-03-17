@@ -119,7 +119,7 @@ Healthcare platform focused on patient engagement and care management.
 **Villa Maria Perivoli**  
 https://villamariaperivoli.com  
 
-Modern website and digital presence for a luxury villa in Corfu.
+Modern website and digital presence for a villa in Corfu.
 
 ---
 
