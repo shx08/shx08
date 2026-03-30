@@ -32,7 +32,9 @@ Designing scalable CMS platforms, APIs and developer tooling.
 
 </p>
 
+<p align="center">
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shx08)
+</p>
 
 ---
 
