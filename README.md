@@ -33,9 +33,9 @@ Designing scalable CMS platforms, APIs and developer tooling.
 </p>
 
 <p align="center">
-  
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shx08)
-
+  <a href="https://www.buymeacoffee.com/shx08">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me a Coffee" width="200" />
+  </a>
 </p>
 
 ---
